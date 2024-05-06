@@ -1,2 +1,2 @@
 # Azure-Automation-using-python
-In this repo I'm gonna put every step from beginning of my journey learning azure automation using python.
+In this repo I'm gonna put every step  of my journey learning Azure automation using Python from the beginning.
